@@ -24,3 +24,6 @@ function playdate.update()
 end
 
 init()
+
+
+print("This is an experiment.")
